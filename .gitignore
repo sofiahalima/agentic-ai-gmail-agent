@@ -6,3 +6,4 @@ credentials.json
 logs/
 .env
 audit_log.csv
+.idea/
